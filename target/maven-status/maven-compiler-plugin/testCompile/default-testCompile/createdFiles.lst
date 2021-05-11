@@ -1,0 +1,12 @@
+com\mycompany\dbunit\DBUnitTestSuite.class
+com\mycompany\dbunit\DBUnitConfig.class
+com\mycompany\dbunit\UserDaoUpdateTest.class
+com\mycompany\dbunit\RoleDaoRemoveTest.class
+com\mycompany\dbunit\UserDaoFindByLoginTest.class
+com\mycompany\dbunit\UserDaoFindAllTest.class
+com\mycompany\dbunit\UserDaoRemoveTest.class
+com\mycompany\dbunit\UserDaoCreateTest.class
+com\mycompany\dbunit\RoleDaoUpdateTest.class
+com\mycompany\dbunit\UserDaoFindByEmailTest.class
+com\mycompany\dbunit\RoleDaoCreateTest.class
+com\mycompany\dbunit\RoleDaoFindByNameTest.class

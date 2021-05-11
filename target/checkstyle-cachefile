@@ -1,0 +1,5 @@
+#Tue May 11 00:01:43 EEST 2021
+module-resource*?\:checkstyle-suppressions.xml=A1C6B7FE4EE938B25F5A9404C546A76CF2678468
+module-resource*?\:checkstyle-xpath-suppressions.xml=5805BDEF3FA8168FFA67C9206E90314FF7093E5E
+D\:\\InteliJ\ Idea\\n-practice-maven-jdbc-servlet\\src\\main\\resources\\log4j.properties=1615325442806
+configuration*?=E12536C6B66C4AE8EEFC8D7203922C2C82E97E6D
