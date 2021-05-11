@@ -13,7 +13,7 @@ import java.util.Properties;
 
 public class DBUnitConfig extends DBTestCase {
 	private static final String DRIVER_CLASS = "org.h2.Driver";
-	private static final String CONNECTION_URL = "jdbc:h2:mem:D:/InteliJ Idea/n-practice-maven-jdbc-servlet/testdb-unit;DB_CLOSE_DELAY=-1;init=runscript from 'classpath:create-db.sql'";
+	private static final String CONNECTION_URL = "jdbc:h2:mem:D:/n-practice-maven-jdbc-servlet/testdb-unit;DB_CLOSE_DELAY=-1;init=runscript from 'classpath:create-db.sql'";
 	private static final String USERNAME = "root";
 	private static final String PASSWORD = "123";
 	

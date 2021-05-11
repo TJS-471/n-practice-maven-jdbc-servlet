@@ -61,7 +61,7 @@ public abstract class AbstractjdbcDao {
 	}
 
 	private String propertyParser(String property) throws IOException {
-		String propFileName = "D:\\InteliJ Idea\\n-practice-maven-jdbc-servlet\\src\\config\\application.properties";
+		String propFileName = "D:\\n-practice-maven-jdbc-servlet\\src\\config\\application.properties";
 		Properties prop = readPropertiesFile(propFileName);
 		return prop.getProperty(property);
 	}
